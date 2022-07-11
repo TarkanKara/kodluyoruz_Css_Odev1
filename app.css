@@ -1,0 +1,57 @@
+h1 {
+    color: orangered;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+h2 {
+    color: green;
+    font-size: x-large;
+    font-family: normal;
+    text-align: center;
+}
+
+ul#menu {
+    list-style-type: circle;
+    color: black;
+    font-size: 18px;
+}
+
+ul#ul-urun > li {
+    color: black;
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+    display: block;
+    width: 80px;
+    list-style-type: disc;
+}
+
+ul#img-urunler>li {
+    color: black;
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    width: 385px;
+    margin: auto;
+    
+}
+ul#img-urunler>li>img {
+
+    display: block;
+    width: 250px;
+    margin:auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+li.li-urun {
+    text-align: center;
+    font-size: 18px;
+    padding: 0px 0px 3px 0px;
+}
+
+p {
+    text-align: center;
+}
